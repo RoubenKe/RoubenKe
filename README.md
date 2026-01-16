@@ -12,8 +12,12 @@ Currently completing my Master's Thesis @sereact.
 - :hammer_and_wrench: Skills: robotics, automation, applied machine learning
 - :robot: Previously at Fraunhofer IPA
 
----
+## Recent Projects
+- Convolution-based grasp point evaluation for sheet metal fabrication (gitlab)
+- Robotic cell deployment & integration
+- Condition Monitoring & PdM for industrial pick-and-place systems
 
+##
 [![](https://custom-icon-badges.demolab.com/badge/-contact%20me-116918?style=for-the-badge&logoColor=white&logo=paper-airplane)](mailto:rouben.kellner@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rouben-kellner/)
 <br/>
@@ -27,8 +31,5 @@ Currently completing my Master's Thesis @sereact.
 ![PyTorch](https://img.shields.io/badge/NumPy-333?logo=numpy&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/Pandas-333?logo=pandas&style=for-the-badge)
 
-## Recent Projects
-- Convolution-based grasp point evaluation for sheet metal fabrication (gitlab)
-- Robotic cell deployment & integration
-- Condition Monitoring & PdM for industrial pick-and-place systems
+
 
