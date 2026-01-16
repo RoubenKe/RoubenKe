@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Rouben 👋
 
-<!--
-**RoubenKe/RoubenKe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotics engineer working on ML in Robotics, Hardware design and integration.  
+Passionate about deploying real robots, not just simulations.
+Currently completing my Master's Thesis @sereact.
 
-Here are some ideas to get you started:
+🎓 M.Sc. Technology Management (Intelligent Production Systems) @ University of Stuttgart  
+🤖 Previously at Fraunhofer IPA
+🛠 Robotics, automation, applied machine learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Interests
+- Robot Learning & Dexterous Manipulation
+- Perception & Computer Vision
+- Industrial Robotics
+- AI for Automation
+
+## Tech Stack
+- Python
+- ROS2, PyTorch, OpenCV
+- Linux, Docker
+- IO-Link, Electronics for automation
+
+## Recent Projects
+- Convolution-based grasp point evaluation for sheet metal fabrication (gitlab)
+- Robotic cell deployment & integration
+- Condition Monitoring & PdM for industrial pick-and-place systems
+
