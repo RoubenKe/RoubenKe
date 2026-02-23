@@ -6,7 +6,7 @@ Currently completing my Master's Thesis @sereact.
 
 ## About me
 
-- 🎓 M.Sc. Technology Management (Intelligent Production Systems) @ University of Stuttgart
+- 🎓 M.Sc. Technology Management (Intelligent Production Systems) @University of Stuttgart
 - :necktie: Thesis Student @Sereact
 - :bulb: Interested in robot learning, dexterous manipulation and applying VLAs to real-world problems
 - :hammer_and_wrench: Skills: robotics, automation, applied machine learning
