@@ -1,8 +1,10 @@
 # Hi there, I'm Rouben 👋
 
-Robotics engineer working on ML in Robotics, Hardware design and integration.  
-Passionate about deploying real robots, not just simulations.
-Currently completing my Master's Thesis @sereact.
+Robotics engineer working at the intersection of industrial automation, hardware and physical AI.  
+Passionate about deploying intelligent robots in real-world environments.  
+Interested in robot learning, vision-language-action models and world-action models.
+
+Currently completing my Master's Thesis @Sereact.
 
 ## About me
 
