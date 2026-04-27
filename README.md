@@ -26,11 +26,11 @@ Currently completing my Master's Thesis @sereact.
 ![Python](https://img.shields.io/badge/Python-333?logo=python&style=for-the-badge)
 <br/>
 ![Frameworks](https://img.shields.io/static/v1?label=&message=frameworks:&color=222&style=for-the-badge)
-![ROS](https://img.shields.io/badge/ROS%202-333?logo=ROS&style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-333?logo=opencv&style=for-the-badge)
+![ROS](https://img.shields.io/badge/ROS2-333?logo=ROS&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-333?logo=pytorch&style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/NumPy-333?logo=numpy&style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/Pandas-333?logo=pandas&style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-333?logo=opencv&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-333?logo=numpy&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-333?logo=pandas&style=for-the-badge)
 
 
 
