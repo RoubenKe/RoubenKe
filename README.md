@@ -4,12 +4,13 @@ Robotics engineer working at the intersection of industrial automation, hardware
 Passionate about deploying intelligent robots in real-world environments.  
 Interested in robot learning, vision-language-action models and world-action models.
 
-Currently completing my Master's Thesis @Sereact.
+
 
 ## About me
 
-- 🎓 M.Sc. Technology Management (Intelligent Production Systems) @University of Stuttgart
-- :necktie: Thesis Student @Sereact
+- 🎓 M.Sc. Mechanical Engineering (Robotics & Control) @University of Stuttgart (ongoing)
+- 🎓 M.Sc. Technology Management (Intelligent Production Systems) @University of Stuttgart (completed)
+- :necktie: Master's Thesis @Sereact
 - :bulb: Interested in robot learning, dexterous manipulation and applying VLAs to real-world problems
 - :hammer_and_wrench: Skills: robotics, automation, applied machine learning
 - :robot: Previously at Fraunhofer IPA
