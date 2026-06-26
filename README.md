@@ -8,14 +8,14 @@ Interested in robot learning, vision-language-action models and world-action mod
 
 ## About me
 
-- 🎓 M.Sc. Mechanical Engineering (Robotics & Control) @University of Stuttgart (ongoing)
-- 🎓 M.Sc. Technology Management (Intelligent Production Systems) @University of Stuttgart (completed)
-- :necktie: Master's Thesis @Sereact
+- 🎓 M.Sc. Mechanical Engineering (ongoing) & M.Sc. Technology Management (Intelligent Production Systems, completed) @University of Stuttgart 
+- :necktie: Robotics Engineer @Athenyx Robotics
 - :bulb: Interested in robot learning, dexterous manipulation and applying VLAs to real-world problems
 - :hammer_and_wrench: Skills: robotics, automation, applied machine learning
-- :robot: Previously at Fraunhofer IPA
+- :robot: Previously at Sereact, Fraunhofer IPA
 
 ## Recent Projects
+- Haptic Teleop Node (C++) in ROS2 for SCARA Robot
 - Lidar Odoemetry Node (C++) in ROS2 for SLAM 
 - Convolution-based grasp point evaluation for sheet metal fabrication (gitlab)
 - Robotic cell deployment & integration
